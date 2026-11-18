@@ -286,4 +286,7 @@ dist
 # #########################################################
 # User Custom
 # ########
-config.bat
+.vscode/*
+.env
+.env.test
+.env.production
