@@ -290,3 +290,5 @@ dist
 .env
 .env.test
 .env.production
+.env.*
+.env.local
